@@ -1,3 +1,4 @@
+# 这里的配置控制 gdu 的行为
 sorting:
   by: size
   order: desc

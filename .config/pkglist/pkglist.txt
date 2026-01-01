@@ -54,6 +54,7 @@ npm
 nwg-look
 obsidian
 openssh
+pacman-contrib
 papirus-icon-theme
 paru
 paru-debug
