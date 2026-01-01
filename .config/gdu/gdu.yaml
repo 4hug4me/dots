@@ -1,0 +1,30 @@
+sorting:
+  by: size
+  order: desc
+check-updates: false
+
+style:
+  # 1. 顶部标题栏 (App Header)
+  app-header:
+    text-color: "#89b4fa"        # Blue
+    background-color: "#11111b"  # Crust
+
+  # 2. 底部状态栏 (App Footer)
+  app-footer:
+    text-color: "#cdd6f4"        # Text
+    background-color: "#11111b"  # Crust
+
+  # 3. 选中行的高亮 (Selected Row) - 最重要
+  selected-row:
+    text-color: "#cdd6f4"        # Text
+    background-color: "#45475a"  # Surface1
+
+  # 4. 进度条 (Progress Bar)
+  progress-bar:
+    color: "#fab387"             # Peach (已使用部分)
+    background-color: "#313244"  # Surface0 (未使用部分)
+
+  # 5. 表头 (Table Row) - 比如 Size, Name 那一行
+  table-header:
+    text-color: "#89b4fa"        # Blue
+    background-color: "#1e1e2e"  # Base
