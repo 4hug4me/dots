@@ -63,4 +63,6 @@ return {
       -- colorscheme = "tokyonight",
     },
   },
+
+  { "akinsho/bufferline.nvim", enabled = false },
 }
