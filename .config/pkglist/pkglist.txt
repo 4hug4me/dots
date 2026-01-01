@@ -11,7 +11,6 @@ btop
 clang
 direnv
 dmidecode
-dua-cli
 efibootmgr
 fastfetch
 fcitx5
